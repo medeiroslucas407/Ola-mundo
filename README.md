@@ -1,4 +1,6 @@
 # Olá, mundo!
  primeiro repositorio versionado
 
- repositorio criado duarnte o curso
+ repositorio criado durante o curso
+ 
+essa linha eu alterei diretamente do site 
